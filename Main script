@@ -1,17 +1,6 @@
 <html>
   <head>
     <title>My AR Experience</title>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-backend-wasm@2.0.0/dist/tfjs-backend-wasm.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/posenet@2.0.0/dist/posenet.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-core@2.0.0/dist/tf-core.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-converter@2.0.0/dist/tf-converter.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-data@2.0.0/dist/tf-data.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet@2.0.0/dist/mobilenet.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-layers@2.0.0/dist/tf-layers.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/handpose@2.0.0/dist/handpose.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-converter@2.0.0/dist/tf-converter.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-backend-webgl@2.0.0/dist/tfjs-backend-webgl.min.js"></script>
   </head>
   <body>
     <h1>My AR Experience</h1>
@@ -27,4 +16,4 @@
       arDiv.appendChild(scene);
     </script>
   </body>
-</
+</html>
